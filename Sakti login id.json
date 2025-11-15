@@ -35,6 +35,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2026-12-15"
+    },
+    {
+      "device_id": "dc440ce873eec36b",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-12-15"
     }
   ]
 }
